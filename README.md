@@ -1,1 +1,4 @@
-# MID_ST-GT
+Code used in the manuscript: "fMRI Reward Response Classifies Human Participants into Sign- and Goal-Trackers and Is Associated with Response to Antipsychotics".
+Sambuco, N. , Lupo, A. , Hawkins, P. C. T. , Selvaggi, P. , Antonucci, L. A. , Bertolino, A. , Blasi, G. , Di Palo, P. , Grassi, L. , Grasso, D. , Homan, P. , Leggio, G. M. , Massari, F. , Monteleone, A. M. , Passiatore, R. , Raio, A. , Rampino, A. , Banaschewski, T. , Barker, G. J. , Bokde, A. L. W. , Brühl, R. , Desrivières, S. , Flor, H. , Garavan, H. , Gowland, P. , Grigis, A. , Heinz, A. , Martinot, J. L. , Martinot, M. L. P. , Artiges, E. , Nees, F. , Orfanos, D. P. , Poustka, L. , Smolka, M. N. , Holz, N. , Vaidya, N. , Walter, H. , Whelan, R. , Schumann, G. , IMAGEN Consortium , Apulian Network on Risk for Psychosis , Mehta, M. A. , Pergola, G.
+
+contacts: nicolasambuco@gmail.com - a.lupo412@gmail.com
