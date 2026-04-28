@@ -1,1 +1,1 @@
-Activation maps at the group level for the Discovery, Replication, and Clinical cohorts
+Activation maps at the group level for the Discovery and Replication cohorts
